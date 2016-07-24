@@ -3,10 +3,6 @@ package com.example.miku.musicplayerlistview;
 import android.os.Bundle;
 import android.provider.MediaStore;
 
-/**
- * Created by miku on 2016/7/19.
- */
-//test
 
 public class Audio {
     private String mTitle,
