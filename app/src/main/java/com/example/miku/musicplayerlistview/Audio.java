@@ -6,10 +6,8 @@ import android.provider.MediaStore;
 /**
  * Created by miku on 2016/7/19.
  */
-<<<<<<< HEAD
 //test
-=======
->>>>>>> origin/master
+
 public class Audio {
     private String mTitle,
             mTitleKey,
